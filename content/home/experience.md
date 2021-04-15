@@ -23,27 +23,41 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company: Collect & Pay Ltd
+    company_url: 'collectnpay.com'
+    company_logo: 
+    location: 
+    date_start: '2020-05-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * evaluating the work of executive leaders;
+        * maintaining awareness of the market landscape;
+        * setting strategic goals and assessing risks;
+        * managing teams&business divisions;
+        * negotiations with company strategic partners;
+        * leading the company technology integration;
+        * creating a business network;
+        * finding acquisition opportunities.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: IT Specialist  
+    company: Institute of Problems of Artificial Intelligence
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: 
+    date_start: '2015-12-01'
+    date_end: '2020-04-30'
+    description: |2-
+        Responsibilities include:
+        
+        * implementation and integration of information systems;
+        * imposition and design for science journal and website;
+        * organize presentations and participate in conferences;
+        * maintain network infrastructure, hardware, software;
+        * prepare requests and technical tasks;
+        * perform data analysis of key issues;
+        * evaluate and execute market research.
 
 design:
   columns: '2'
