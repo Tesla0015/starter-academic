@@ -43,7 +43,7 @@ experience:
         
   - title: IT Specialist  
     company: Institute of Problems of Artificial Intelligence
-    company_url: ''
+    company_url: 'ipai.ru'
     company_logo: 
     location: 
     date_start: '2015-12-01'
