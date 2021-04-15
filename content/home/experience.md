@@ -1,5 +1,7 @@
 ---
 widget: experience
+headless: true
+weight: 20
 date_format: Jan 2006
 experience:
   - title: CEO
