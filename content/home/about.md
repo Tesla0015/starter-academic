@@ -6,4 +6,7 @@ weight: 20
 title: " \\\\\\\\    ////"
 active: true
 author: admin
+design:
+  background:
+    image: /assets/media/pixelart1.png
 ---
