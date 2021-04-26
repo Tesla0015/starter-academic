@@ -1,6 +1,7 @@
 ---
 title: George Arakelov
 role: Human
+avatar_filename: e3a29a5ec48b4ed0dc2391fce16d64d3cl38bvkmx5u6rudv-0.png
 bio: ""
 interests: []
 social:
